@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TiposBasicosDeDadosC#/1.0.0": {
+        "dependencies": {
+          "SaidaDeDadosC#": "1.0.0"
+        },
+        "runtime": {
+          "TiposBasicosDeDadosC#.dll": {}
+        }
+      },
+      "SaidaDeDadosC#/1.0.0": {
+        "runtime": {
+          "SaidaDeDadosC#.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TiposBasicosDeDadosC#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SaidaDeDadosC#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

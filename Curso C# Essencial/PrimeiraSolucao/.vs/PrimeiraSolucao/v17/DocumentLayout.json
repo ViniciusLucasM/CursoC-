@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vini\\Documents\\Curso C#\\PrimeiraSolucao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8AE912-43CB-40F7-AF05-BFF8DD00B605}|MeuProjeto2\\MeuProjeto2.csproj|c:\\users\\vini\\documents\\curso c#\\primeirasolucao\\meuprojeto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8AE912-43CB-40F7-AF05-BFF8DD00B605}|MeuProjeto2\\MeuProjeto2.csproj|solutionrelative:meuprojeto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998547A1-83F9-447E-A25E-1772EDCA10E8}|PrimeiroProjeto\\PrimeiroProjeto.csproj|c:\\users\\vini\\documents\\curso c#\\primeirasolucao\\primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998547A1-83F9-447E-A25E-1772EDCA10E8}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vini\\Documents\\Curso C#\\PrimeiraSolucao\\PrimeiroProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\vini\\Documents\\Curso C#\\PrimeiraSolucao\\PrimeiroProjeto\\Program.cs",
+              "RelativeToolTip": "PrimeiroProjeto\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:07:24.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vini\\Documents\\Curso C#\\PrimeiraSolucao\\MeuProjeto2\\Program.cs",
+              "RelativeDocumentMoniker": "MeuProjeto2\\Program.cs",
+              "ToolTip": "C:\\Users\\vini\\Documents\\Curso C#\\PrimeiraSolucao\\MeuProjeto2\\Program.cs",
+              "RelativeToolTip": "MeuProjeto2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:07:26.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\ProvaLogicaProgramacao\bin\Debug\net8.0\ProvaLogicaProgramacao.exe
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\ProvaLogicaProgramacao\bin\Debug\net8.0\ProvaLogicaProgramacao.deps.json
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\ProvaLogicaProgramacao\bin\Debug\net8.0\ProvaLogicaProgramacao.runtimeconfig.json
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\ProvaLogicaProgramacao\bin\Debug\net8.0\ProvaLogicaProgramacao.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\ProvaLogicaProgramacao\bin\Debug\net8.0\ProvaLogicaProgramacao.pdb
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\ProvaLogicaProgramacao\obj\Debug\net8.0\ProvaLogicaProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\ProvaLogicaProgramacao\obj\Debug\net8.0\ProvaLogicaProgramacao.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\ProvaLogicaProgramacao\obj\Debug\net8.0\ProvaLogicaProgramacao.AssemblyInfo.cs
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\ProvaLogicaProgramacao\obj\Debug\net8.0\ProvaLogicaProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\ProvaLogicaProgramacao\obj\Debug\net8.0\ProvaLogicaProgramacao.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\ProvaLogicaProgramacao\obj\Debug\net8.0\refint\ProvaLogicaProgramacao.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\ProvaLogicaProgramacao\obj\Debug\net8.0\ProvaLogicaProgramacao.pdb
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\ProvaLogicaProgramacao\obj\Debug\net8.0\ProvaLogicaProgramacao.genruntimeconfig.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\ProvaLogicaProgramacao\obj\Debug\net8.0\ref\ProvaLogicaProgramacao.dll

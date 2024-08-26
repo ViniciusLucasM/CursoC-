@@ -1,0 +1,14 @@
+C:\Users\vini\Documents\Curso C#\CSFundamentos1\TipoDateTime2\bin\Debug\net8.0\TipoDateTime2.exe
+C:\Users\vini\Documents\Curso C#\CSFundamentos1\TipoDateTime2\bin\Debug\net8.0\TipoDateTime2.deps.json
+C:\Users\vini\Documents\Curso C#\CSFundamentos1\TipoDateTime2\bin\Debug\net8.0\TipoDateTime2.runtimeconfig.json
+C:\Users\vini\Documents\Curso C#\CSFundamentos1\TipoDateTime2\bin\Debug\net8.0\TipoDateTime2.dll
+C:\Users\vini\Documents\Curso C#\CSFundamentos1\TipoDateTime2\bin\Debug\net8.0\TipoDateTime2.pdb
+C:\Users\vini\Documents\Curso C#\CSFundamentos1\TipoDateTime2\obj\Debug\net8.0\TipoDateTime2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Curso C#\CSFundamentos1\TipoDateTime2\obj\Debug\net8.0\TipoDateTime2.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Curso C#\CSFundamentos1\TipoDateTime2\obj\Debug\net8.0\TipoDateTime2.AssemblyInfo.cs
+C:\Users\vini\Documents\Curso C#\CSFundamentos1\TipoDateTime2\obj\Debug\net8.0\TipoDateTime2.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Curso C#\CSFundamentos1\TipoDateTime2\obj\Debug\net8.0\TipoDateTime2.dll
+C:\Users\vini\Documents\Curso C#\CSFundamentos1\TipoDateTime2\obj\Debug\net8.0\refint\TipoDateTime2.dll
+C:\Users\vini\Documents\Curso C#\CSFundamentos1\TipoDateTime2\obj\Debug\net8.0\TipoDateTime2.pdb
+C:\Users\vini\Documents\Curso C#\CSFundamentos1\TipoDateTime2\obj\Debug\net8.0\TipoDateTime2.genruntimeconfig.cache
+C:\Users\vini\Documents\Curso C#\CSFundamentos1\TipoDateTime2\obj\Debug\net8.0\ref\TipoDateTime2.dll

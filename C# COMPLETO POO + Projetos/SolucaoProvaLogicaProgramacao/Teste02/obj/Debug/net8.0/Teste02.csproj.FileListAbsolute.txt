@@ -1,0 +1,14 @@
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\Teste02\bin\Debug\net8.0\Teste02.exe
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\Teste02\bin\Debug\net8.0\Teste02.deps.json
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\Teste02\bin\Debug\net8.0\Teste02.runtimeconfig.json
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\Teste02\bin\Debug\net8.0\Teste02.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\Teste02\bin\Debug\net8.0\Teste02.pdb
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\Teste02\obj\Debug\net8.0\Teste02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\Teste02\obj\Debug\net8.0\Teste02.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\Teste02\obj\Debug\net8.0\Teste02.AssemblyInfo.cs
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\Teste02\obj\Debug\net8.0\Teste02.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\Teste02\obj\Debug\net8.0\Teste02.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\Teste02\obj\Debug\net8.0\refint\Teste02.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\Teste02\obj\Debug\net8.0\Teste02.pdb
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\Teste02\obj\Debug\net8.0\Teste02.genruntimeconfig.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\SolucaoProvaLogicaProgramacao\Teste02\obj\Debug\net8.0\ref\Teste02.dll

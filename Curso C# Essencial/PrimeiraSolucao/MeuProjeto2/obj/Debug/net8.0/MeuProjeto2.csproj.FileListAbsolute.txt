@@ -1,0 +1,14 @@
+C:\Users\vini\Documents\Curso C#\PrimeiraSolucao\MeuProjeto2\bin\Debug\net8.0\MeuProjeto2.exe
+C:\Users\vini\Documents\Curso C#\PrimeiraSolucao\MeuProjeto2\bin\Debug\net8.0\MeuProjeto2.deps.json
+C:\Users\vini\Documents\Curso C#\PrimeiraSolucao\MeuProjeto2\bin\Debug\net8.0\MeuProjeto2.runtimeconfig.json
+C:\Users\vini\Documents\Curso C#\PrimeiraSolucao\MeuProjeto2\bin\Debug\net8.0\MeuProjeto2.dll
+C:\Users\vini\Documents\Curso C#\PrimeiraSolucao\MeuProjeto2\bin\Debug\net8.0\MeuProjeto2.pdb
+C:\Users\vini\Documents\Curso C#\PrimeiraSolucao\MeuProjeto2\obj\Debug\net8.0\MeuProjeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Curso C#\PrimeiraSolucao\MeuProjeto2\obj\Debug\net8.0\MeuProjeto2.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Curso C#\PrimeiraSolucao\MeuProjeto2\obj\Debug\net8.0\MeuProjeto2.AssemblyInfo.cs
+C:\Users\vini\Documents\Curso C#\PrimeiraSolucao\MeuProjeto2\obj\Debug\net8.0\MeuProjeto2.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Curso C#\PrimeiraSolucao\MeuProjeto2\obj\Debug\net8.0\MeuProjeto2.dll
+C:\Users\vini\Documents\Curso C#\PrimeiraSolucao\MeuProjeto2\obj\Debug\net8.0\refint\MeuProjeto2.dll
+C:\Users\vini\Documents\Curso C#\PrimeiraSolucao\MeuProjeto2\obj\Debug\net8.0\MeuProjeto2.pdb
+C:\Users\vini\Documents\Curso C#\PrimeiraSolucao\MeuProjeto2\obj\Debug\net8.0\MeuProjeto2.genruntimeconfig.cache
+C:\Users\vini\Documents\Curso C#\PrimeiraSolucao\MeuProjeto2\obj\Debug\net8.0\ref\MeuProjeto2.dll

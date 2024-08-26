@@ -1,0 +1,14 @@
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\ConvercaoImplicitaECasting\bin\Debug\net8.0\ConvercaoImplicitaECasting.exe
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\ConvercaoImplicitaECasting\bin\Debug\net8.0\ConvercaoImplicitaECasting.deps.json
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\ConvercaoImplicitaECasting\bin\Debug\net8.0\ConvercaoImplicitaECasting.runtimeconfig.json
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\ConvercaoImplicitaECasting\bin\Debug\net8.0\ConvercaoImplicitaECasting.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\ConvercaoImplicitaECasting\bin\Debug\net8.0\ConvercaoImplicitaECasting.pdb
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\ConvercaoImplicitaECasting\obj\Debug\net8.0\ConvercaoImplicitaECasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\ConvercaoImplicitaECasting\obj\Debug\net8.0\ConvercaoImplicitaECasting.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\ConvercaoImplicitaECasting\obj\Debug\net8.0\ConvercaoImplicitaECasting.AssemblyInfo.cs
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\ConvercaoImplicitaECasting\obj\Debug\net8.0\ConvercaoImplicitaECasting.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\ConvercaoImplicitaECasting\obj\Debug\net8.0\ConvercaoImplicitaECasting.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\ConvercaoImplicitaECasting\obj\Debug\net8.0\refint\ConvercaoImplicitaECasting.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\ConvercaoImplicitaECasting\obj\Debug\net8.0\ConvercaoImplicitaECasting.pdb
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\ConvercaoImplicitaECasting\obj\Debug\net8.0\ConvercaoImplicitaECasting.genruntimeconfig.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\ConvercaoImplicitaECasting\obj\Debug\net8.0\ref\ConvercaoImplicitaECasting.dll

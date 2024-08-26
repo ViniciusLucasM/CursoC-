@@ -1,0 +1,14 @@
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\OperadoresAritmeticos-Atribuicao\bin\Debug\net8.0\OperadoresAritmeticos-Atribuicao.exe
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\OperadoresAritmeticos-Atribuicao\bin\Debug\net8.0\OperadoresAritmeticos-Atribuicao.deps.json
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\OperadoresAritmeticos-Atribuicao\bin\Debug\net8.0\OperadoresAritmeticos-Atribuicao.runtimeconfig.json
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\OperadoresAritmeticos-Atribuicao\bin\Debug\net8.0\OperadoresAritmeticos-Atribuicao.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\OperadoresAritmeticos-Atribuicao\bin\Debug\net8.0\OperadoresAritmeticos-Atribuicao.pdb
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\OperadoresAritmeticos-Atribuicao\obj\Debug\net8.0\OperadoresAritmeticos-Atribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\OperadoresAritmeticos-Atribuicao\obj\Debug\net8.0\OperadoresAritmeticos-Atribuicao.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\OperadoresAritmeticos-Atribuicao\obj\Debug\net8.0\OperadoresAritmeticos-Atribuicao.AssemblyInfo.cs
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\OperadoresAritmeticos-Atribuicao\obj\Debug\net8.0\OperadoresAritmeticos-Atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\OperadoresAritmeticos-Atribuicao\obj\Debug\net8.0\OperadoresAritmeticos-Atribuicao.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\OperadoresAritmeticos-Atribuicao\obj\Debug\net8.0\refint\OperadoresAritmeticos-Atribuicao.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\OperadoresAritmeticos-Atribuicao\obj\Debug\net8.0\OperadoresAritmeticos-Atribuicao.pdb
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\OperadoresAritmeticos-Atribuicao\obj\Debug\net8.0\OperadoresAritmeticos-Atribuicao.genruntimeconfig.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\OperadoresAritmeticos-Atribuicao\obj\Debug\net8.0\ref\OperadoresAritmeticos-Atribuicao.dll

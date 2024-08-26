@@ -1,0 +1,14 @@
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\SaidaDeDadosC#\bin\Debug\net8.0\SaidaDeDadosC#.exe
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\SaidaDeDadosC#\bin\Debug\net8.0\SaidaDeDadosC#.deps.json
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\SaidaDeDadosC#\bin\Debug\net8.0\SaidaDeDadosC#.runtimeconfig.json
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\SaidaDeDadosC#\bin\Debug\net8.0\SaidaDeDadosC#.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\SaidaDeDadosC#\bin\Debug\net8.0\SaidaDeDadosC#.pdb
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\SaidaDeDadosC#\obj\Debug\net8.0\SaidaDeDadosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\SaidaDeDadosC#\obj\Debug\net8.0\SaidaDeDadosC#.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\SaidaDeDadosC#\obj\Debug\net8.0\SaidaDeDadosC#.AssemblyInfo.cs
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\SaidaDeDadosC#\obj\Debug\net8.0\SaidaDeDadosC#.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\SaidaDeDadosC#\obj\Debug\net8.0\SaidaDeDadosC#.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\SaidaDeDadosC#\obj\Debug\net8.0\refint\SaidaDeDadosC#.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\SaidaDeDadosC#\obj\Debug\net8.0\SaidaDeDadosC#.pdb
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\SaidaDeDadosC#\obj\Debug\net8.0\SaidaDeDadosC#.genruntimeconfig.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\SaidaDeDadosC#\obj\Debug\net8.0\ref\SaidaDeDadosC#.dll

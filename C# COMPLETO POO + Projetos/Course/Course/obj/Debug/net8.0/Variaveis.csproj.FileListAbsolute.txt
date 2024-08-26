@@ -1,0 +1,14 @@
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\Course\bin\Debug\net8.0\Variaveis.exe
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\Course\bin\Debug\net8.0\Variaveis.deps.json
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\Course\bin\Debug\net8.0\Variaveis.runtimeconfig.json
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\Course\bin\Debug\net8.0\Variaveis.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\Course\bin\Debug\net8.0\Variaveis.pdb
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\Course\obj\Debug\net8.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\Course\obj\Debug\net8.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\Course\obj\Debug\net8.0\Variaveis.AssemblyInfo.cs
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\Course\obj\Debug\net8.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\Course\obj\Debug\net8.0\Variaveis.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\Course\obj\Debug\net8.0\refint\Variaveis.dll
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\Course\obj\Debug\net8.0\Variaveis.pdb
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\Course\obj\Debug\net8.0\Variaveis.genruntimeconfig.cache
+C:\Users\vini\Documents\Importantes\Cursos\Curso C#\C# COMPLETO POO + Projetos\Course\Course\obj\Debug\net8.0\ref\Variaveis.dll

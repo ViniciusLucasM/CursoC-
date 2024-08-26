@@ -1,0 +1,14 @@
+C:\Users\vini\source\repos\Fundamentos\Exercicios-Fase1\bin\Debug\net8.0\Exercicios-Fase1.exe
+C:\Users\vini\source\repos\Fundamentos\Exercicios-Fase1\bin\Debug\net8.0\Exercicios-Fase1.deps.json
+C:\Users\vini\source\repos\Fundamentos\Exercicios-Fase1\bin\Debug\net8.0\Exercicios-Fase1.runtimeconfig.json
+C:\Users\vini\source\repos\Fundamentos\Exercicios-Fase1\bin\Debug\net8.0\Exercicios-Fase1.dll
+C:\Users\vini\source\repos\Fundamentos\Exercicios-Fase1\bin\Debug\net8.0\Exercicios-Fase1.pdb
+C:\Users\vini\source\repos\Fundamentos\Exercicios-Fase1\obj\Debug\net8.0\Exercicios-Fase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\source\repos\Fundamentos\Exercicios-Fase1\obj\Debug\net8.0\Exercicios-Fase1.AssemblyInfoInputs.cache
+C:\Users\vini\source\repos\Fundamentos\Exercicios-Fase1\obj\Debug\net8.0\Exercicios-Fase1.AssemblyInfo.cs
+C:\Users\vini\source\repos\Fundamentos\Exercicios-Fase1\obj\Debug\net8.0\Exercicios-Fase1.csproj.CoreCompileInputs.cache
+C:\Users\vini\source\repos\Fundamentos\Exercicios-Fase1\obj\Debug\net8.0\Exercicios-Fase1.dll
+C:\Users\vini\source\repos\Fundamentos\Exercicios-Fase1\obj\Debug\net8.0\refint\Exercicios-Fase1.dll
+C:\Users\vini\source\repos\Fundamentos\Exercicios-Fase1\obj\Debug\net8.0\Exercicios-Fase1.pdb
+C:\Users\vini\source\repos\Fundamentos\Exercicios-Fase1\obj\Debug\net8.0\Exercicios-Fase1.genruntimeconfig.cache
+C:\Users\vini\source\repos\Fundamentos\Exercicios-Fase1\obj\Debug\net8.0\ref\Exercicios-Fase1.dll

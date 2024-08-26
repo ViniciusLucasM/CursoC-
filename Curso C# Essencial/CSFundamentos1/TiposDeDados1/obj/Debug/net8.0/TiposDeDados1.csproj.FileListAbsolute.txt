@@ -1,0 +1,14 @@
+C:\Users\vini\source\repos\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.exe
+C:\Users\vini\source\repos\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.deps.json
+C:\Users\vini\source\repos\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.runtimeconfig.json
+C:\Users\vini\source\repos\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.dll
+C:\Users\vini\source\repos\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.pdb
+C:\Users\vini\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.AssemblyInfoInputs.cache
+C:\Users\vini\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.AssemblyInfo.cs
+C:\Users\vini\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.csproj.CoreCompileInputs.cache
+C:\Users\vini\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.dll
+C:\Users\vini\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\refint\TiposDeDados1.dll
+C:\Users\vini\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.pdb
+C:\Users\vini\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.genruntimeconfig.cache
+C:\Users\vini\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\ref\TiposDeDados1.dll
