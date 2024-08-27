@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\SExercicios\\Exercicios\\Exercicios1.csproj": {}
+    "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\SExercicios\\Exercicios\\Exercicios1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\SExercicios\\Exercicios\\Exercicios1.csproj": {
+    "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\SExercicios\\Exercicios\\Exercicios1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\SExercicios\\Exercicios\\Exercicios1.csproj",
+        "projectUniqueName": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\SExercicios\\Exercicios\\Exercicios1.csproj",
         "projectName": "Exercicios1",
-        "projectPath": "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\SExercicios\\Exercicios\\Exercicios1.csproj",
+        "projectPath": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\SExercicios\\Exercicios\\Exercicios1.csproj",
         "packagesPath": "C:\\Users\\vini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\SExercicios\\Exercicios\\obj\\",
+        "outputPath": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\SExercicios\\Exercicios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vini\\AppData\\Roaming\\NuGet\\NuGet.Config",

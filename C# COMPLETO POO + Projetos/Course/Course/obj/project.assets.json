@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\Course\\Course\\TiposBasicosDeDadosC#.csproj",
+      "projectUniqueName": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\Course\\Course\\TiposBasicosDeDadosC#.csproj",
       "projectName": "TiposBasicosDeDadosC#",
-      "projectPath": "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\Course\\Course\\TiposBasicosDeDadosC#.csproj",
+      "projectPath": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\Course\\Course\\TiposBasicosDeDadosC#.csproj",
       "packagesPath": "C:\\Users\\vini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\Course\\Course\\obj\\",
+      "outputPath": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\Course\\Course\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vini\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\Course\\SaidaDeDadosC#\\SaidaDeDadosC#.csproj": {
-              "projectPath": "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\Course\\SaidaDeDadosC#\\SaidaDeDadosC#.csproj"
+            "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\Course\\SaidaDeDadosC#\\SaidaDeDadosC#.csproj": {
+              "projectPath": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\Course\\SaidaDeDadosC#\\SaidaDeDadosC#.csproj"
             }
           }
         }

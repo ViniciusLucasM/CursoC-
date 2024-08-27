@@ -1,0 +1,15 @@
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\bin\Debug\net8.0\EntradaDeDadosEmC#.exe
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\bin\Debug\net8.0\EntradaDeDadosEmC#.deps.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\bin\Debug\net8.0\EntradaDeDadosEmC#.runtimeconfig.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\bin\Debug\net8.0\EntradaDeDadosEmC#.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\bin\Debug\net8.0\EntradaDeDadosEmC#.pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\obj\Debug\net8.0\EntradaDeDadosEmC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\obj\Debug\net8.0\EntradaDeDadosEmC#.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\obj\Debug\net8.0\EntradaDeDadosEmC#.AssemblyInfo.cs
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\obj\Debug\net8.0\EntradaDeDadosEmC#.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\obj\Debug\net8.0\EntradaDeDadosEmC#.sourcelink.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\obj\Debug\net8.0\EntradaDeDadosEmC#.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\obj\Debug\net8.0\refint\EntradaDeDadosEmC#.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\obj\Debug\net8.0\EntradaDeDadosEmC#.pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\obj\Debug\net8.0\EntradaDeDadosEmC#.genruntimeconfig.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EntradaDeDadosEmC#\obj\Debug\net8.0\ref\EntradaDeDadosEmC#.dll

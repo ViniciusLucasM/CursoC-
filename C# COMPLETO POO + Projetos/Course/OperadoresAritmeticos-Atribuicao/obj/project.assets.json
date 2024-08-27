@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\Course\\OperadoresAritmeticos-Atribuicao\\OperadoresAritmeticos-Atribuicao.csproj",
+      "projectUniqueName": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\Course\\OperadoresAritmeticos-Atribuicao\\OperadoresAritmeticos-Atribuicao.csproj",
       "projectName": "OperadoresAritmeticos-Atribuicao",
-      "projectPath": "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\Course\\OperadoresAritmeticos-Atribuicao\\OperadoresAritmeticos-Atribuicao.csproj",
+      "projectPath": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\Course\\OperadoresAritmeticos-Atribuicao\\OperadoresAritmeticos-Atribuicao.csproj",
       "packagesPath": "C:\\Users\\vini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\Course\\OperadoresAritmeticos-Atribuicao\\obj\\",
+      "outputPath": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\Course\\OperadoresAritmeticos-Atribuicao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vini\\AppData\\Roaming\\NuGet\\NuGet.Config",

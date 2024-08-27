@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\Course\\OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj": {}
+    "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\Course\\OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\Course\\OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj": {
+    "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\Course\\OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\Course\\OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj",
+        "projectUniqueName": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\Course\\OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj",
         "projectName": "OperadoresDeAtribuicao",
-        "projectPath": "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\Course\\OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj",
+        "projectPath": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\Course\\OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj",
         "packagesPath": "C:\\Users\\vini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vini\\Documents\\Importantes\\Cursos\\Curso C#\\C# COMPLETO POO + Projetos\\Course\\OperadoresDeAtribuicao\\obj\\",
+        "outputPath": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO + Projetos\\Course\\OperadoresDeAtribuicao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vini\\AppData\\Roaming\\NuGet\\NuGet.Config",
