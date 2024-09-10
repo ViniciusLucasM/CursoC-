@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO \u002B Projetos\\Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0C6929F-57C9-4A90-9D0C-65B4000FED41}|EntradaDeDadosEmC#\\EntradaDeDadosEmC#.csproj|c:\\users\\vini\\documents\\cursos\\cursoc#\\c# completo poo \u002B projetos\\course\\entradadedadosemc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C6929F-57C9-4A90-9D0C-65B4000FED41}|EntradaDeDadosEmC#\\EntradaDeDadosEmC#.csproj|solutionrelative:entradadedadosemc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E273BAC-DE14-4BD1-B1D1-7606CA16338E}|EstruturaRepetitiva(While)\\EstruturaRepetitiva(While).csproj|c:\\users\\vini\\documents\\cursos\\cursoc#\\c# completo poo \u002B projetos\\course\\estruturarepetitiva(while)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E273BAC-DE14-4BD1-B1D1-7606CA16338E}|EstruturaRepetitiva(While)\\EstruturaRepetitiva(While).csproj|solutionrelative:estruturarepetitiva(while)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO \u002B Projetos\\Course\\EntradaDeDadosEmC#\\Program.cs",
-              "RelativeDocumentMoniker": "EntradaDeDadosEmC#\\Program.cs",
-              "ToolTip": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO \u002B Projetos\\Course\\EntradaDeDadosEmC#\\Program.cs",
-              "RelativeToolTip": "EntradaDeDadosEmC#\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAywCcAAAAvAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO \u002B Projetos\\Course\\EstruturaRepetitiva(While)\\Program.cs",
+              "RelativeDocumentMoniker": "EstruturaRepetitiva(While)\\Program.cs",
+              "ToolTip": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO \u002B Projetos\\Course\\EstruturaRepetitiva(While)\\Program.cs",
+              "RelativeToolTip": "EstruturaRepetitiva(While)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T20:07:07.641Z",
+              "WhenOpened": "2024-08-29T18:27:35.83Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\bin\Debug\net8.0\Exercicio04-Estrutura-Sequencial.exe
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\bin\Debug\net8.0\Exercicio04-Estrutura-Sequencial.deps.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\bin\Debug\net8.0\Exercicio04-Estrutura-Sequencial.runtimeconfig.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\bin\Debug\net8.0\Exercicio04-Estrutura-Sequencial.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\bin\Debug\net8.0\Exercicio04-Estrutura-Sequencial.pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\obj\Debug\net8.0\Exercicio04-Estrutura-Sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\obj\Debug\net8.0\Exercicio04-Estrutura-Sequencial.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\obj\Debug\net8.0\Exercicio04-Estrutura-Sequencial.AssemblyInfo.cs
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\obj\Debug\net8.0\Exercicio04-Estrutura-Sequencial.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\obj\Debug\net8.0\Exercicio04-Estrutura-Sequencial.sourcelink.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\obj\Debug\net8.0\Exercicio04-Estrutura-Sequencial.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\obj\Debug\net8.0\refint\Exercicio04-Estrutura-Sequencial.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\obj\Debug\net8.0\Exercicio04-Estrutura-Sequencial.pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\obj\Debug\net8.0\Exercicio04-Estrutura-Sequencial.genruntimeconfig.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio04-Estrutura-Sequencial\obj\Debug\net8.0\ref\Exercicio04-Estrutura-Sequencial.dll

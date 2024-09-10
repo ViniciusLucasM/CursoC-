@@ -1,0 +1,15 @@
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\bin\Debug\net8.0\OperadoresLógicos.exe
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\bin\Debug\net8.0\OperadoresLógicos.deps.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\bin\Debug\net8.0\OperadoresLógicos.runtimeconfig.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\bin\Debug\net8.0\OperadoresLógicos.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\bin\Debug\net8.0\OperadoresLógicos.pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\obj\Debug\net8.0\OperadoresLógicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\obj\Debug\net8.0\OperadoresLógicos.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\obj\Debug\net8.0\OperadoresLógicos.AssemblyInfo.cs
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\obj\Debug\net8.0\OperadoresLógicos.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\obj\Debug\net8.0\OperadoresLógicos.sourcelink.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\obj\Debug\net8.0\OperadoresLógicos.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\obj\Debug\net8.0\refint\OperadoresLógicos.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\obj\Debug\net8.0\OperadoresLógicos.pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\obj\Debug\net8.0\OperadoresLógicos.genruntimeconfig.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresLógicos\obj\Debug\net8.0\ref\OperadoresLógicos.dll

@@ -1,0 +1,15 @@
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\bin\Debug\net8.0\Exercicio06-Estrutura-Condicional.exe
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\bin\Debug\net8.0\Exercicio06-Estrutura-Condicional.deps.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\bin\Debug\net8.0\Exercicio06-Estrutura-Condicional.runtimeconfig.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\bin\Debug\net8.0\Exercicio06-Estrutura-Condicional.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\bin\Debug\net8.0\Exercicio06-Estrutura-Condicional.pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\obj\Debug\net8.0\Exercicio06-Estrutura-Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\obj\Debug\net8.0\Exercicio06-Estrutura-Condicional.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\obj\Debug\net8.0\Exercicio06-Estrutura-Condicional.AssemblyInfo.cs
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\obj\Debug\net8.0\Exercicio06-Estrutura-Condicional.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\obj\Debug\net8.0\Exercicio06-Estrutura-Condicional.sourcelink.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\obj\Debug\net8.0\Exercicio06-Estrutura-Condicional.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\obj\Debug\net8.0\refint\Exercicio06-Estrutura-Condicional.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\obj\Debug\net8.0\Exercicio06-Estrutura-Condicional.pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\obj\Debug\net8.0\Exercicio06-Estrutura-Condicional.genruntimeconfig.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio06-Estrutura-Condicional\obj\Debug\net8.0\ref\Exercicio06-Estrutura-Condicional.dll

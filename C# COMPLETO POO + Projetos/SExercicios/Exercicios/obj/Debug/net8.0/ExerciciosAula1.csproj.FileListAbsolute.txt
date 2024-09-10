@@ -1,0 +1,15 @@
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\bin\Debug\net8.0\ExerciciosAula1.exe
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\bin\Debug\net8.0\ExerciciosAula1.deps.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\bin\Debug\net8.0\ExerciciosAula1.runtimeconfig.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\bin\Debug\net8.0\ExerciciosAula1.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\bin\Debug\net8.0\ExerciciosAula1.pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\obj\Debug\net8.0\ExerciciosAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\obj\Debug\net8.0\ExerciciosAula1.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\obj\Debug\net8.0\ExerciciosAula1.AssemblyInfo.cs
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\obj\Debug\net8.0\ExerciciosAula1.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\obj\Debug\net8.0\ExerciciosAula1.sourcelink.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\obj\Debug\net8.0\ExerciciosAula1.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\obj\Debug\net8.0\refint\ExerciciosAula1.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\obj\Debug\net8.0\ExerciciosAula1.pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\obj\Debug\net8.0\ExerciciosAula1.genruntimeconfig.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicios\obj\Debug\net8.0\ref\ExerciciosAula1.dll

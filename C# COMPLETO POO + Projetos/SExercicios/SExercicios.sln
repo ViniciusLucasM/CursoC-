@@ -7,17 +7,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciciosAula1", "Exercici
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioAula2", "Exercicio2\ExercicioAula2.csproj", "{3ADF6DAE-ED30-49B6-8CA1-1E614067D799}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio01-Estrutura-Sequencial", "Exercicio 01\Exercicio01-Estrutura-Sequencial.csproj", "{CE1A6F41-F3EF-4A6C-A87D-392B1C683E30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio01-Estrutura-Sequencial", "Exercicio 01\Exercicio01-Estrutura-Sequencial.csproj", "{CE1A6F41-F3EF-4A6C-A87D-392B1C683E30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio02-Estrutura-Sequencial", "Exercicio02-Estrutura-Sequencial\Exercicio02-Estrutura-Sequencial.csproj", "{09867BCD-E3CC-4758-B911-C924D16D41C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio02-Estrutura-Sequencial", "Exercicio02-Estrutura-Sequencial\Exercicio02-Estrutura-Sequencial.csproj", "{09867BCD-E3CC-4758-B911-C924D16D41C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio03-Estrutura-Sequencial", "Exercicio03-Estrutura-Sequencial\Exercicio03-Estrutura-Sequencial.csproj", "{C3D5D751-EDB6-49A1-A16E-50CEC23A8AFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio03-Estrutura-Sequencial", "Exercicio03-Estrutura-Sequencial\Exercicio03-Estrutura-Sequencial.csproj", "{C3D5D751-EDB6-49A1-A16E-50CEC23A8AFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio04-Estrutura-Sequencial", "Exercicio04-Estrutura-Sequencial\Exercicio04-Estrutura-Sequencial.csproj", "{A51938CE-C537-430C-AB4F-22C77B34A58C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio04-Estrutura-Sequencial", "Exercicio04-Estrutura-Sequencial\Exercicio04-Estrutura-Sequencial.csproj", "{A51938CE-C537-430C-AB4F-22C77B34A58C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio05-Estrutura-Sequencial", "Exercicio05-Estrutura-Sequencial\Exercicio05-Estrutura-Sequencial.csproj", "{57D33E20-6777-414B-8CDE-BA2F8C220CF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio05-Estrutura-Sequencial", "Exercicio05-Estrutura-Sequencial\Exercicio05-Estrutura-Sequencial.csproj", "{57D33E20-6777-414B-8CDE-BA2F8C220CF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio06-Estrutura-Sequencial", "Exercicio06-Estrutura-Sequencial\Exercicio06-Estrutura-Sequencial.csproj", "{8D446931-D94A-4383-B7CC-96F0D63A1118}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio06-Estrutura-Sequencial", "Exercicio06-Estrutura-Sequencial\Exercicio06-Estrutura-Sequencial.csproj", "{8D446931-D94A-4383-B7CC-96F0D63A1118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio01-Estrutura-Condicional", "Exercicio01-Estrutura-Condicional\Exercicio01-Estrutura-Condicional.csproj", "{8F062E7F-D192-4317-9B40-853BC88AF2F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio02-Estrutura-Condicional", "Exercicio02-Estrutura-Condicional\Exercicio02-Estrutura-Condicional.csproj", "{21F33050-4EAF-4522-BEF1-2B50916C0948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio03-Estrutura-Condicional", "Exercicio03-Estrutura-Condicional\Exercicio03-Estrutura-Condicional.csproj", "{C0924B3F-FC32-4AC0-9E68-0147E5E0285B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio04-Estrutura-Condicional", "Exercicio04-Estrutura-Condicional\Exercicio04-Estrutura-Condicional.csproj", "{9F9C3342-C841-4B70-81B3-C40C786CD6E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio05-Estrutura-Condicional", "Exercicio05-Estrutura-Condicional\Exercicio05-Estrutura-Condicional.csproj", "{537F4FF0-E045-4FB8-9BCB-FF1830BED390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio06-Estrutura-Condicional", "Exercicio06-Estrutura-Condicional\Exercicio06-Estrutura-Condicional.csproj", "{B916765D-F572-43C4-B8ED-D1F50AED9CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio07-Estrutura-Condicional", "Exercicio07-Estrutura-Condicional\Exercicio07-Estrutura-Condicional.csproj", "{220F99DD-2028-4F43-8075-23E9AB9BF575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio08-Estrutura-Condicional", "Exercicio08-Estrutura-Condicional\Exercicio08-Estrutura-Condicional.csproj", "{9DC9EA6B-794C-4C25-A139-434E79B33289}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +73,38 @@ Global
 		{8D446931-D94A-4383-B7CC-96F0D63A1118}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D446931-D94A-4383-B7CC-96F0D63A1118}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D446931-D94A-4383-B7CC-96F0D63A1118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F062E7F-D192-4317-9B40-853BC88AF2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F062E7F-D192-4317-9B40-853BC88AF2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F062E7F-D192-4317-9B40-853BC88AF2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F062E7F-D192-4317-9B40-853BC88AF2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F33050-4EAF-4522-BEF1-2B50916C0948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F33050-4EAF-4522-BEF1-2B50916C0948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F33050-4EAF-4522-BEF1-2B50916C0948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F33050-4EAF-4522-BEF1-2B50916C0948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0924B3F-FC32-4AC0-9E68-0147E5E0285B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0924B3F-FC32-4AC0-9E68-0147E5E0285B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0924B3F-FC32-4AC0-9E68-0147E5E0285B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0924B3F-FC32-4AC0-9E68-0147E5E0285B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9C3342-C841-4B70-81B3-C40C786CD6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9C3342-C841-4B70-81B3-C40C786CD6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9C3342-C841-4B70-81B3-C40C786CD6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9C3342-C841-4B70-81B3-C40C786CD6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537F4FF0-E045-4FB8-9BCB-FF1830BED390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537F4FF0-E045-4FB8-9BCB-FF1830BED390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537F4FF0-E045-4FB8-9BCB-FF1830BED390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537F4FF0-E045-4FB8-9BCB-FF1830BED390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B916765D-F572-43C4-B8ED-D1F50AED9CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B916765D-F572-43C4-B8ED-D1F50AED9CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B916765D-F572-43C4-B8ED-D1F50AED9CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B916765D-F572-43C4-B8ED-D1F50AED9CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{220F99DD-2028-4F43-8075-23E9AB9BF575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220F99DD-2028-4F43-8075-23E9AB9BF575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220F99DD-2028-4F43-8075-23E9AB9BF575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220F99DD-2028-4F43-8075-23E9AB9BF575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC9EA6B-794C-4C25-A139-434E79B33289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC9EA6B-794C-4C25-A139-434E79B33289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC9EA6B-794C-4C25-A139-434E79B33289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC9EA6B-794C-4C25-A139-434E79B33289}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

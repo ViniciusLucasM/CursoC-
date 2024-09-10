@@ -1,0 +1,15 @@
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.exe
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.deps.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.runtimeconfig.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.AssemblyInfo.cs
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.sourcelink.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\obj\Debug\net8.0\refint\OperadoresComparativos.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.genruntimeconfig.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\OperadoresComparativos\obj\Debug\net8.0\ref\OperadoresComparativos.dll
