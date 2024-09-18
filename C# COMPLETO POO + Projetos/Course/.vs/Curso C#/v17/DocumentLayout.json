@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "EstruturaRepetitiva(While)\\Program.cs",
               "ToolTip": "C:\\Users\\vini\\Documents\\Cursos\\CursoC#\\C# COMPLETO POO \u002B Projetos\\Course\\EstruturaRepetitiva(While)\\Program.cs",
               "RelativeToolTip": "EstruturaRepetitiva(While)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T18:27:35.83Z",
               "EditorCaption": ""

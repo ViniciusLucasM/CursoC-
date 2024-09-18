@@ -1,0 +1,15 @@
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\bin\Debug\net8.0\Exercicio03-Estrutura-While.exe
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\bin\Debug\net8.0\Exercicio03-Estrutura-While.deps.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\bin\Debug\net8.0\Exercicio03-Estrutura-While.runtimeconfig.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\bin\Debug\net8.0\Exercicio03-Estrutura-While.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\bin\Debug\net8.0\Exercicio03-Estrutura-While.pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\obj\Debug\net8.0\Exercicio03-Estrutura-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\obj\Debug\net8.0\Exercicio03-Estrutura-While.AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\obj\Debug\net8.0\Exercicio03-Estrutura-While.AssemblyInfo.cs
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\obj\Debug\net8.0\Exercicio03-Estrutura-While.csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\obj\Debug\net8.0\Exercicio03-Estrutura-While.sourcelink.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\obj\Debug\net8.0\Exercicio03-Estrutura-While.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\obj\Debug\net8.0\refint\Exercicio03-Estrutura-While.dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\obj\Debug\net8.0\Exercicio03-Estrutura-While.pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\obj\Debug\net8.0\Exercicio03-Estrutura-While.genruntimeconfig.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\SExercicios\Exercicio03-Estrutura-While\obj\Debug\net8.0\ref\Exercicio03-Estrutura-While.dll

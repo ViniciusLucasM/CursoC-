@@ -1,0 +1,15 @@
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\bin\Debug\net8.0\EstruturaRepetitiva(While).exe
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\bin\Debug\net8.0\EstruturaRepetitiva(While).deps.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\bin\Debug\net8.0\EstruturaRepetitiva(While).runtimeconfig.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\bin\Debug\net8.0\EstruturaRepetitiva(While).dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\bin\Debug\net8.0\EstruturaRepetitiva(While).pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\obj\Debug\net8.0\EstruturaRepetitiva(While).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\obj\Debug\net8.0\EstruturaRepetitiva(While).AssemblyInfoInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\obj\Debug\net8.0\EstruturaRepetitiva(While).AssemblyInfo.cs
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\obj\Debug\net8.0\EstruturaRepetitiva(While).csproj.CoreCompileInputs.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\obj\Debug\net8.0\EstruturaRepetitiva(While).sourcelink.json
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\obj\Debug\net8.0\EstruturaRepetitiva(While).dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\obj\Debug\net8.0\refint\EstruturaRepetitiva(While).dll
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\obj\Debug\net8.0\EstruturaRepetitiva(While).pdb
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\obj\Debug\net8.0\EstruturaRepetitiva(While).genruntimeconfig.cache
+C:\Users\vini\Documents\Cursos\CursoC#\C# COMPLETO POO + Projetos\Course\EstruturaRepetitiva(While)\obj\Debug\net8.0\ref\EstruturaRepetitiva(While).dll
