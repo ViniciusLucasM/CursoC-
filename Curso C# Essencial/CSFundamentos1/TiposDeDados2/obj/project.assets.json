@@ -6,23 +6,28 @@
   "libraries": {},
   "projectFileDependencyGroups": {
     "net8.0": [
-      "C:\\Users\\vini\\Documents\\Curso C#\\CSFundamentos1\\TipoDeDados3\\TipoDeDados3.csproj"
+      "C:\\Users\\ViniciusLucasdeMesqu\\Documents\\Cursos2\\Curso C# Essencial\\CSFundamentos1\\TipoDeDados3\\TipoDeDados3.csproj"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vini\\.nuget\\packages\\": {}
+    "C:\\Users\\ViniciusLucasdeMesqu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vini\\Documents\\Curso C#\\CSFundamentos1\\TiposDeDados2\\TiposDeDados2.csproj",
+      "projectUniqueName": "C:\\Users\\ViniciusLucasdeMesqu\\Documents\\Cursos2\\Curso C# Essencial\\CSFundamentos1\\TiposDeDados2\\TiposDeDados2.csproj",
       "projectName": "TiposDeDados2",
-      "projectPath": "C:\\Users\\vini\\Documents\\Curso C#\\CSFundamentos1\\TiposDeDados2\\TiposDeDados2.csproj",
-      "packagesPath": "C:\\Users\\vini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vini\\Documents\\Curso C#\\CSFundamentos1\\TiposDeDados2\\obj\\",
+      "projectPath": "C:\\Users\\ViniciusLucasdeMesqu\\Documents\\Cursos2\\Curso C# Essencial\\CSFundamentos1\\TiposDeDados2\\TiposDeDados2.csproj",
+      "packagesPath": "C:\\Users\\ViniciusLucasdeMesqu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ViniciusLucasdeMesqu\\Documents\\Cursos2\\Curso C# Essencial\\CSFundamentos1\\TiposDeDados2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\vini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ViniciusLucasdeMesqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -37,8 +42,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\vini\\Documents\\Curso C#\\CSFundamentos1\\TipoDeDados3\\TipoDeDados3.csproj": {
-              "projectPath": "C:\\Users\\vini\\Documents\\Curso C#\\CSFundamentos1\\TipoDeDados3\\TipoDeDados3.csproj"
+            "C:\\Users\\ViniciusLucasdeMesqu\\Documents\\Cursos2\\Curso C# Essencial\\CSFundamentos1\\TipoDeDados3\\TipoDeDados3.csproj": {
+              "projectPath": "C:\\Users\\ViniciusLucasdeMesqu\\Documents\\Cursos2\\Curso C# Essencial\\CSFundamentos1\\TipoDeDados3\\TipoDeDados3.csproj"
             }
           }
         }
@@ -52,7 +57,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -73,7 +79,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -81,8 +87,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\vini\\Documents\\Curso C#\\CSFundamentos1\\TipoDeDados3\\TipoDeDados3.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\vini\\Documents\\Curso C#\\CSFundamentos1\\TipoDeDados3\\TipoDeDados3.csproj",
+      "message": "Unable to find project 'C:\\Users\\ViniciusLucasdeMesqu\\Documents\\Cursos2\\Curso C# Essencial\\CSFundamentos1\\TipoDeDados3\\TipoDeDados3.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\ViniciusLucasdeMesqu\\Documents\\Cursos2\\Curso C# Essencial\\CSFundamentos1\\TipoDeDados3\\TipoDeDados3.csproj",
       "targetGraphs": [
         "net8.0"
       ]

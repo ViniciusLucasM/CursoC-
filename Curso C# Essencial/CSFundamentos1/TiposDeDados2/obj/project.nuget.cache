@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "6/oC8WteSJE=",
+  "dgSpecHash": "3o4sI1ypJpU=",
   "success": false,
-  "projectFilePath": "C:\\Users\\vini\\Documents\\Curso C#\\CSFundamentos1\\TiposDeDados2\\TiposDeDados2.csproj",
+  "projectFilePath": "C:\\Users\\ViniciusLucasdeMesqu\\Documents\\Cursos2\\Curso C# Essencial\\CSFundamentos1\\TiposDeDados2\\TiposDeDados2.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\vini\\Documents\\Curso C#\\CSFundamentos1\\TipoDeDados3\\TipoDeDados3.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\vini\\Documents\\Curso C#\\CSFundamentos1\\TipoDeDados3\\TipoDeDados3.csproj",
+      "message": "Unable to find project 'C:\\Users\\ViniciusLucasdeMesqu\\Documents\\Cursos2\\Curso C# Essencial\\CSFundamentos1\\TipoDeDados3\\TipoDeDados3.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\ViniciusLucasdeMesqu\\Documents\\Cursos2\\Curso C# Essencial\\CSFundamentos1\\TipoDeDados3\\TipoDeDados3.csproj",
       "targetGraphs": [
         "net8.0"
       ]
